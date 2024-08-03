@@ -126,6 +126,7 @@
   width: 90vw;
   background: #f1f0c3;
   height: fit-content;
+  font-size: 0.8rem;
 }
 
 .letter--open .envelope {

@@ -110,7 +110,7 @@
   animation-duration: 0.6s;
   animation-fill-mode: forwards;
   height: fit-content;
-  overflow-y: scroll;
+  overflow-x: scroll;
 }
 
 .letter--close .paper {
